@@ -16,6 +16,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When to create internal or external links in html](https://htopskills.com/blog/when-to-create-internal-or-external-links-in-html/)
+- [How to set CSS styles with jQuery](https://htopskills.com/blog/how-to-set-css-styles-with-jquery/)
+- [How to install XAMPP in Windows 10](https://htopskills.com/blog/how-to-install-xampp-in-windows-10/)
+- [How to use System Restore in Windows 10](https://htopskills.com/blog/how-to-use-system-restore-in-windows-10/)
+- [How to get to the BIOS on Windows 10](https://htopskills.com/blog/how-to-get-to-the-bios-on-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ <a href="https://htopskills.com" rel="noopener" target="_blank">Click to see more blog posts</a>
