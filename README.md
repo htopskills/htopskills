@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Install Java JDK 15 on Windows 10 ( with JAVA_HOME )](https://www.youtube.com/watch?v=8P7DMGo_IYQ)
 - [How to remove the button you clicked using jQuery](https://www.youtube.com/watch?v=qi0QgStfWDo)
 - [How to add CSS with jQuery / Tech tips](https://www.youtube.com/watch?v=_qvO05e8jxE)
 - [How to add text with jQuery | jQuery tutorial](https://www.youtube.com/watch?v=Vl1wa1DWOCM)
 - [How to install XAMPP in Windows 10](https://www.youtube.com/watch?v=teZCbVAZxlk)
-- [How to print date and time in Javascript / Tech tips](https://www.youtube.com/watch?v=3M71cmYoWNc)
 <!-- YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UC05gjv4vIxwlr70ZxzZK17A?sub_confirmation=1" rel="noopener" target="_blank">Click to see more videos</a>
