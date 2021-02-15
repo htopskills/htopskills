@@ -16,11 +16,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install Putty on Windows 10](https://htopskills.com/blog/how-to-install-putty-on-windows-10/)
 - [How to disable chat in Microsoft Teams](https://htopskills.com/blog/how-to-disable-chat-in-microsoft-teams/)
 - [How to detect which element is clicked using jQuery](https://htopskills.com/blog/how-to-detect-which-element-is-clicked-using-jquery/)
 - [When to create internal or external links in html](https://htopskills.com/blog/when-to-create-internal-or-external-links-in-html/)
 - [How to set CSS styles with jQuery](https://htopskills.com/blog/how-to-set-css-styles-with-jquery/)
-- [How to install XAMPP in Windows 10](https://htopskills.com/blog/how-to-install-xampp-in-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ <a href="https://htopskills.com" rel="noopener" target="_blank">Click to see more blog posts</a>
