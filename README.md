@@ -16,11 +16,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to download the entire file in a website folder](https://htopskills.com/blog/how-to-download-the-entire-file-in-a-website-folder/)
 - [How to change username on reddit](https://htopskills.com/blog/how-to-change-username-on-reddit/)
 - [How to set up a VPN connection on Windows 10](https://htopskills.com/blog/how-to-set-up-a-vpn-connection-on-windows-10/)
 - [How to uninstall update in Windows 10](https://htopskills.com/blog/how-to-uninstall-update-in-windows-10/)
 - [How to Install Putty on Windows 10](https://htopskills.com/blog/how-to-install-putty-on-windows-10/)
-- [How to disable chat in Microsoft Teams](https://htopskills.com/blog/how-to-disable-chat-in-microsoft-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ <a href="https://htopskills.com" rel="noopener" target="_blank">Click to see more blog posts</a>
