@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to convert date to month and year in excel / Fill column in Microsoft excel](https://www.youtube.com/watch?v=khUxYqyZzCs)
 - [How to download the entire file in a website folder / Tech tips](https://www.youtube.com/watch?v=rMME6bFoiRc)
 - [How to change PHP version in cpanel | Netfirms](https://www.youtube.com/watch?v=bEhGYPxI5hE)
 - [How to install postgresql 13 on windows 10 | postgre pgadmin 4](https://www.youtube.com/watch?v=qNGc-XiA7Cw)
 - [java.lang.UnsupportedClassVersionError / LinkageError occurred while loading main class](https://www.youtube.com/watch?v=T5aDBfZ9j-k)
-- [How to Install Java JDK 15 on Windows 10 ( with JAVA_HOME )](https://www.youtube.com/watch?v=8P7DMGo_IYQ)
 <!-- YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UC05gjv4vIxwlr70ZxzZK17A?sub_confirmation=1" rel="noopener" target="_blank">Click to see more videos</a>
