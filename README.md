@@ -30,7 +30,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to install MongoDB on Windows 10](https://www.youtube.com/watch?v=CYOMcnRRbO0)
+- [How to install MongoDB 4.4.5 on Windows 10](https://www.youtube.com/watch?v=CYOMcnRRbO0)
 - [Gradle download failed in intellij | Gradle with IntelliJ IDEA 2021](https://www.youtube.com/watch?v=8FqWYk38lAg)
 - [How to move dock to bottom in Ubuntu 20.04 | How to move taskbar in Ubuntu 20.04](https://www.youtube.com/watch?v=Sxstpr3h-Yw)
 - [How to install Python 3.9.4 on Windows 10 | python 64 bit](https://www.youtube.com/watch?v=oXH1EwtjGog)
