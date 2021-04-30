@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to install MongoDB on Windows 10](https://www.youtube.com/watch?v=CYOMcnRRbO0)
 - [Gradle download failed in intellij | Gradle with IntelliJ IDEA 2021](https://www.youtube.com/watch?v=8FqWYk38lAg)
 - [How to move dock to bottom in Ubuntu 20.04 | How to move taskbar in Ubuntu 20.04](https://www.youtube.com/watch?v=Sxstpr3h-Yw)
 - [How to install Python 3.9.4 on Windows 10 | python 64 bit](https://www.youtube.com/watch?v=oXH1EwtjGog)
 - [How to convert date to month and year in excel / Fill column in Microsoft excel](https://www.youtube.com/watch?v=khUxYqyZzCs)
-- [How to download the entire file in a website folder / Tech tips](https://www.youtube.com/watch?v=rMME6bFoiRc)
 <!-- YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UC05gjv4vIxwlr70ZxzZK17A?sub_confirmation=1" rel="noopener" target="_blank">Click to see more videos</a>
