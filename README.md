@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fix error 1020 cloudflare / error 1020 android](https://www.youtube.com/watch?v=G6JBCf0cYTc)
 - [MongoDB couldn't connect to network server](https://www.youtube.com/watch?v=xNlI4rVMhmA)
 - [How to install MongoDB 4.4.5 on Windows 10](https://www.youtube.com/watch?v=CYOMcnRRbO0)
 - [Gradle download failed in intellij | Gradle with IntelliJ IDEA 2021](https://www.youtube.com/watch?v=8FqWYk38lAg)
 - [How to move dock to bottom in Ubuntu 20.04 | How to move taskbar in Ubuntu 20.04](https://www.youtube.com/watch?v=Sxstpr3h-Yw)
-- [How to install Python 3.9.4 on Windows 10 | python 64 bit](https://www.youtube.com/watch?v=oXH1EwtjGog)
 <!-- YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UC05gjv4vIxwlr70ZxzZK17A?sub_confirmation=1" rel="noopener" target="_blank">Click to see more videos</a>
