@@ -16,11 +16,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to check file integrity in Windows](https://htopskills.com/blog/how-to-check-file-integrity-in-windows/)
 - [Things you can do with Windows 10 File Explorer](https://htopskills.com/blog/things-you-can-do-with-windows-10-file-explorer/)
 - [Get the daily changing lock screen image on Windows 10](https://htopskills.com/blog/get-the-daily-changing-lock-screen-image-on-windows-10/)
 - [How to install MongoDB on Windows 10](https://htopskills.com/blog/how-to-install-mongodb-on-windows-10/)
 - [How to install Python on Windows 10](https://htopskills.com/blog/how-to-install-python-on-windows-10/)
-- [How to convert date to month and year in Excel](https://htopskills.com/blog/how-to-convert-date-to-month-and-year-in-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ <a href="https://htopskills.com" rel="noopener" target="_blank">Click to see more blog posts</a>
