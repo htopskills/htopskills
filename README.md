@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Curl: The system cannot find the path specified](https://www.youtube.com/watch?v=AEA0fGOjfMQ)
 - [How to mount a host directory inside a Docker container](https://www.youtube.com/watch?v=BwXip40bzoY)
 - [How to install docker on Windows 10](https://www.youtube.com/watch?v=-fUOBRNynSk)
 - [How to install gpg on windows 10](https://www.youtube.com/watch?v=y_E4uQZh_C4)
 - [How to run Gradle project in command prompt](https://www.youtube.com/watch?v=RkDd7sqwpT0)
-- [Fix error 1020 cloudflare / error 1020 android #shorts](https://www.youtube.com/watch?v=G6JBCf0cYTc)
 <!-- YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UC05gjv4vIxwlr70ZxzZK17A?sub_confirmation=1" rel="noopener" target="_blank">Click to see more videos</a>
