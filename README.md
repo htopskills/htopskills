@@ -31,7 +31,7 @@
 
 <!-- YOUTUBE:START -->
 - [How to setup Visual Studio Code to recognize jsx code #shorts](https://www.youtube.com/watch?v=63vHuflSR7o)
-- [VirtualBox - Error in suplibOsInit Kernel driver not installed (rc=-1908)](https://www.youtube.com/watch?v=CjjSoOcE244)
+- [VirtualBox - Error in suplibOsInit Kernel driver not installed &lpar;rc=-1908&rpar;](https://www.youtube.com/watch?v=CjjSoOcE244)
 - [Curl: The system cannot find the path specified](https://www.youtube.com/watch?v=AEA0fGOjfMQ)
 - [How to mount a host directory inside a Docker container](https://www.youtube.com/watch?v=BwXip40bzoY)
 - [How to install docker on Windows 10](https://www.youtube.com/watch?v=-fUOBRNynSk)
