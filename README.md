@@ -16,11 +16,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install WhatsApp on Windows PC](https://htopskills.com/blog/how-to-install-whatsapp-on-windows-pc/)
 - [How to get back to desktop on Windows PC](https://htopskills.com/blog/how-to-get-back-to-desktop-on-windows-pc/)
 - [How to Open Windows Settings](https://htopskills.com/blog/how-to-open-windows-settings/)
 - [How to find the MAC address of a device](https://htopskills.com/blog/how-to-find-the-mac-address-of-a-device/)
 - [Remove Weather and News from Windows 10 Taskbar](https://htopskills.com/blog/remove-weather-and-news-from-windows-10-taskbar/)
-- [How to check file integrity in Windows](https://htopskills.com/blog/how-to-check-file-integrity-in-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ <a href="https://htopskills.com" rel="noopener" target="_blank">Click to see more blog posts</a>
