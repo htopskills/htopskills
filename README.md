@@ -30,7 +30,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [npm check what is installed in global cache](https://www.youtube.com/watch?v=QBFCpOde6Uo)
+- [npm check what is installed in global cache | #shorts](https://www.youtube.com/watch?v=QBFCpOde6Uo)
 - [How To Install and Setup Sass In Visual Studio Code](https://www.youtube.com/watch?v=WzWOMvf3mB8)
 - [How to setup Visual Studio Code to recognize jsx code #shorts](https://www.youtube.com/watch?v=63vHuflSR7o)
 - [VirtualBox - Error in suplibOsInit Kernel driver not installed &lpar;rc=-1908&rpar;](https://www.youtube.com/watch?v=CjjSoOcE244)
