@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [npm check what is installed in global cache](https://www.youtube.com/watch?v=QBFCpOde6Uo)
 - [How To Install and Setup Sass In Visual Studio Code](https://www.youtube.com/watch?v=WzWOMvf3mB8)
 - [How to setup Visual Studio Code to recognize jsx code #shorts](https://www.youtube.com/watch?v=63vHuflSR7o)
 - [VirtualBox - Error in suplibOsInit Kernel driver not installed &lpar;rc=-1908&rpar;](https://www.youtube.com/watch?v=CjjSoOcE244)
 - [Curl: The system cannot find the path specified](https://www.youtube.com/watch?v=AEA0fGOjfMQ)
-- [How to mount a host directory inside a Docker container](https://www.youtube.com/watch?v=BwXip40bzoY)
 <!-- YOUTUBE:END -->
 
 ➡️ <a href="https://www.youtube.com/channel/UC05gjv4vIxwlr70ZxzZK17A?sub_confirmation=1" rel="noopener" target="_blank">Click to see more videos</a>
